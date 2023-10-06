@@ -1,0 +1,30 @@
+.film {
+    background-color: #232323;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.film_cover {
+    width: 100%;
+}
+
+.film_info {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.rating {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.rating_count {
+    background-color: #FFF965;
+    color: black;
+    padding: 2px 8px;
+    border-radius: 8px;
+}
